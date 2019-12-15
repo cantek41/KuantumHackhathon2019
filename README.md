@@ -1,12 +1,12 @@
 # KuantumHackhathon2019
 
-##Düzenleyen: QTurkey - QWorld
+#Düzenleyen: QTurkey - QWorld
 
-##Ana Sponsorlar: ODTÜ Teknokent CoZone - Unitary Fund - Redeye
+#Ana Sponsorlar: ODTÜ Teknokent CoZone - Unitary Fund - Redeye
 
-##Kuantum Programlama Uygulamaları - Kuantum Jack
+#Kuantum Programlama Uygulamaları - Kuantum Jack
 
-##Ekip
+#Ekip
 CANTEKİN ÇELIKHASI
 ZELİHA BEKTAŞ
 MUSATAFA SELİM ÖZEN
